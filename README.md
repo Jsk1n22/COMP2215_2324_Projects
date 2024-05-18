@@ -9,16 +9,16 @@ It was my first task on the PiPico and first time using python and micropython, 
 
 ### Possible extensions
 If I had more time before the deadline I would have aimed to add the following (I may implement these at a later date):
-*The project currently only has a very basic html site, it could be extended to have a better web page.
-*It currently supports three requests (lightOn?, lightOff?, and RickRoll?), so it could be extended to include more.
-*It could have more song options.
+* The project currently only has a very basic html site, it could be extended to have a better web page.
+* It currently supports three requests (lightOn?, lightOff?, and RickRoll?), so it could be extended to include more.
+* It could have more song options.
 
 ### Material that helped
-*[https://www.w3schools.com/python/python_intro.asp W3 Schools python tutorial]
-*[https://www.youtube.com/watch?v=TusJYxhISSY YouTube tutorial for starting MicroPython on a PicoW]
-*[https://projects.raspberrypi.org/en/projects/get-started-pico-w/5 Setting up a Web Server on a PicoW]
-*[https://github.com/CytronTechnologies/MAKER-PI-PICO Maker-Pi-Pico GitHub Repo]
-*[https://forums.raspberrypi.com/viewtopic.php?t=305432 Rescuing a bricked Pico]
+* [https://www.w3schools.com/python/python_intro.asp W3 Schools python tutorial]
+* [https://www.youtube.com/watch?v=TusJYxhISSY YouTube tutorial for starting MicroPython on a PicoW]
+* [https://projects.raspberrypi.org/en/projects/get-started-pico-w/5 Setting up a Web Server on a PicoW]
+* [https://github.com/CytronTechnologies/MAKER-PI-PICO Maker-Pi-Pico GitHub Repo]
+* [https://forums.raspberrypi.com/viewtopic.php?t=305432 Rescuing a bricked Pico]
 
 ### GitHub Repository
 [link goes here]
@@ -29,11 +29,11 @@ This project uses the PiPico with the Cytron Maker board. It was designed to use
 
 ### Possible extensions
 If I had more time before the deadline I would have aimed to add the following (I may implement these at a later date):
-*The project currently only provides morse code for the hard coded string, and so it could be extended to receive the string to convert into morse code through a command line or a http request or similar.
-*Potentially use the Maker Board's RGB light to blink in different colours to represent dots and dashes through colour.
+* The project currently only provides morse code for the hard coded string, and so it could be extended to receive the string to convert into morse code through a command line or a http request or similar.
+* Potentially use the Maker Board's RGB light to blink in different colours to represent dots and dashes through colour.
 
 ### Material that helped
-*[https://github.com/CytronTechnologies/MAKER-PI-PICO Maker-Pi-Pico GitHub Repo]
+* [https://github.com/CytronTechnologies/MAKER-PI-PICO Maker-Pi-Pico GitHub Repo]
 
 ### GitHub Repository
 [link goes here]
@@ -46,13 +46,13 @@ This project uses the PiPico with the WaveShare 1.3 inch LCD. It is a game where
 
 ### Possible extensions
 If I had more time before the deadline I would have aimed to add the following (I may implement these at a later date):
-*Add a 10 second timer to make the game have rounds of 10s each
-*Make the centre joystick (Select) button start a new round
-*Keep a list of the highest scores
+* Add a 10 second timer to make the game have rounds of 10s each
+* Make the centre joystick (Select) button start a new round
+* Keep a list of the highest scores
 
 ### Material that helped
-*[https://github.com/waveshare/LCD-show GitHub for the Waveshare LCD]
-*[https://thepihut.com/blogs/raspberry-pi-tutorials/advanced-text-with-micropython-on-raspberry-pi-pico-displays Writing text to the WaveShare LCD]
+* [https://github.com/waveshare/LCD-show GitHub for the Waveshare LCD]
+* [https://thepihut.com/blogs/raspberry-pi-tutorials/advanced-text-with-micropython-on-raspberry-pi-pico-displays Writing text to the WaveShare LCD]
 
 ### GitHub Repository### 
 [link goes here]
